@@ -1,0 +1,12 @@
+DirtMatch
+Duration : Mar'17 - Aug'17
+Team Size : 4
+Technology : Javascript, PHP, MySQL, HTML5 , css
+Operating System : Windows 10
+Tools Used : Visual Studio 17, Twilio, wamp server
+Description : This project is for online dirt Exchange. It is online platform designed to help contractors easily exchange
+              cuts and fill of dirt. Main objective is to get things what we required by searching round the corner.
+Role : Developed registration and login page. Use Twilio for SMS gateway to verify user by OTP. Also use Twilio for sending dirt information 
+       via Email.
+ 
+       
